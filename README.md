@@ -18,7 +18,7 @@
 │          "HTML", "CSS", "JavaScript", "TypeScript", "C", "C++", "Go", "Python"              │
 │      };                                                                                     │
 │                                                                                             │
-│      vector<string> frontend = {"React", "Next.js", "Tailwind CSS",Redux"};                 │
+│      vector<string> frontend = {"React", "Next.js", "Tailwind CSS", "Redux"};               │
 │                                                                                             │
 │      vector<string> backend = {"Node.js", "Express.js"};                                    │
 │                                                                                             │
@@ -32,7 +32,7 @@
 │         "Binary Tree", "Graph","BFS","DFS","Dynamic Programming"                            │
 │      }                                                                                      │
 │                                                                                             │
-│      vector<string> oop = {"OOP with C++","OOP with Python"};                               │
+│      vector<string> oop = {"OOP with C++", "OOP with Python"};                              │
 │                                                                                             │
 │      string interested_in() {                                                               │
 │          return "System Design & Backend Development";                                      │
