@@ -15,13 +15,10 @@
 │      bool loves_programming = true;                                                         │
 │                                                                                             │
 │      vector<string> languages = {                                                           │
-│          "HTML", "CSS", "JavaScript",                                                       │
-│          "TypeScript", "C", "C++", "Go", "Python"                                           │
+│          "HTML", "CSS", "JavaScript", "TypeScript", "C", "C++", "Go", "Python"              │
 │      };                                                                                     │
 │                                                                                             │
-│      vector<string> frontend = {                                                            │
-│          "React", "Next.js", "Tailwind CSS", "Redux"                                        │
-│      };                                                                                     │
+│      vector<string> frontend = {"React", "Next.js", "Tailwind CSS",Redux"};                 │
 │                                                                                             │
 │      vector<string> backend = {"Node.js", "Express.js"};                                    │
 │                                                                                             │
@@ -29,10 +26,7 @@
 │          "MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"                              │
 │      };                                                                                     │
 │                                                                                             │
-│      vector<string> tools = {                                                               │
-│          "Git", "Docker",                                                                   │
-│          "Linux", "VS Code", "Postman"                                                      │
-│      };                                                                                     │
+│      vector<string> tools = {"Git", "Docker", "Linux", "VS Code", "Postman"};               │
 │                                                                                             │
 │      vector<string> dsa = {                                                                 │
 │         "Binary Tree", "Graph","BFS","DFS","Dynamic Programming"                            │
